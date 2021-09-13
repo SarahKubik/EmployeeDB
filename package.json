@@ -1,0 +1,30 @@
+
+{
+  "name": "employeedb",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahKubik/EmployeeDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahKubik/EmployeeDB/issues"
+  },
+  "homepage": "https://github.com/SarahKubik/EmployeeDB#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.1"
+  }
+}
