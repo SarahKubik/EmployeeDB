@@ -11,7 +11,7 @@
 
 ## Acceptance Criteria
 
-> When user answers a series of questions an output is cleanly displays as an html > webpage showing each team members card with their specific details.
+> When user answers a series of questions an output is cleanly displays as a webpage showing each team members card with their specific details.
 
 ## Technology Used
 
