@@ -21,7 +21,7 @@
 
 ## Mockup
 
-<!-- [![!EcomBackend video tutorial](https://res.cloudinary.com/marcomontalbano/image/upload/v1631640033/video_to_markdown/images/google-drive--1GZ2vOyAHh4b6eyebn8YXUR_vrBHfZfZV-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1GZ2vOyAHh4b6eyebn8YXUR_vrBHfZfZV/view?usp= "EcomBE") -->
+[![Team Profile](https://res.cloudinary.com/marcomontalbano/image/upload/v1632182840/video_to_markdown/images/google-drive--17duMZPvY8hdEvUu1wJvhu7TxGh8bBxuE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/17duMZPvY8hdEvUu1wJvhu7TxGh8bBxuE/view?usp=sharing "Team Profile")
 
 ## Links
 
